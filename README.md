@@ -40,7 +40,3 @@ This project demonstrates how to create a self-learning robotic arm using reinfo
     - Open the Arduino IDE and create a new sketch.
     - Copy the provided Arduino code into the sketch.
     - Upload the sketch to your Arduino board.
-
-## License
-
-This project is licensed under the MIT License.
